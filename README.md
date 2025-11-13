@@ -54,8 +54,7 @@ This portfolio showcases my data analytics projects built using **Python, Power 
 - Highlighted post-pandemic recovery patterns (2020–2024).  
 - Interactive filters for airport and time selection.
 
-📊 [View dashboard on LinkedIn](https://www.linkedin.com/posts/arifatulfe_powerbi-datavisualization-dashboarddesign-activity-7393300528946077697-sVWE?utm_source=share&utm_medium=member_desktop&rcm=ACoAAD3zrfYBnZQQoM6abv0Yx7Khnw90ZCgl-jY)
-
+📊 [View dashboard on LinkedIn] (https://bit.ly/FlightDepaturePowerBI)
 ---
 
 ## 🧰 Tools & Technologies
