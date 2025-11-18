@@ -1,76 +1,37 @@
-# 🌟 Arifah — Data Analyst Portfolio
+# 👋 Hi, I'm Arifatul Fathinah Essa  
 
-Hi! I’m **Arifah**, an aspiring data analyst passionate about transforming data into meaningful insights through forecasting, visualization, and machine learning.  
-This portfolio showcases my data analytics projects built using **Python, Power BI, and Minitab**, covering real-world datasets and practical problem-solving.
+**🎓 Bachelor of Statistics — Universitas Muhammadiyah Semarang**  
+**📊 GPA: 3.52**
 
----
-
-## 📁 Projects
-
-### 1️⃣ Forecasting Coastal Fishing Port (PPP) Production — Central Java, 2024
-**Goal:** Forecast production results across all coastal fishing ports (PPP) in Central Java Province for January 2024.  
-**Method:** Single Moving Average  
-**Tools:** Minitab  
-**Highlights:**
-- Predicted production trends for each PPP in Central Java.
-- Identified ports with highest projected yield for early 2024.
-- Used moving average smoothing for time-series forecasting.
-
-🔗 [View project presentation on LinkedIn](https://bit.ly/forecastingPPPJateng2024)
+I am a Statistics graduate with strong interest in data analysis, machine learning, and data visualization. I enjoy working on end-to-end data projects—from exploration and modeling to communicating insights clearly and effectively.
 
 ---
 
-### 2️⃣ Forecasting Tilapia Fish Production — Central Java
-**Goal:** Predict tilapia fish production across districts/cities in Central Java Province.  
-**Method:** Single Exponential Smoothing (SES)  
-**Tools:** Python (Pandas, NumPy, Matplotlib)  
-**Highlights:**
-- Built SES forecasting model using Python.  
-- Visualized trend lines for 2023–2024 production.  
-- Provided recommendations for resource allocation.
+## 🔧 Skills & Expertise
 
-🔗 [Access project & notebook](https://bit.ly/forecastingSESIkanNila)
+### 📘 Statistical & Machine Learning
+- Classification  
+- Regression  
+- Forecasting / Time Series  
+- Data Visualization  
 
----
-
-### 3️⃣ Sentiment Analysis of *Wondr by BNI* Application Reviews
-**Goal:** Analyze customer sentiment from Google Play reviews of *Wondr by BNI* app.  
-**Method:** Modified K-Nearest Neighbor (MK-NN) for sentiment classification  
-**Tools:** Python (Scikit-learn, Pandas, TextBlob)  
-**Highlights:**
-- Cleaned and preprocessed Indonesian review text data.  
-- Implemented a modified KNN algorithm for improved accuracy.  
-- Visualized sentiment distribution (positive, neutral, negative).
-
-💻 [Access code and implementation](https://bit.ly/MKNNWondrbyBNI)
+### 🛠 Tools & Software
+- SPSS  
+- Minitab  
+- Excel  
+- Python  
+- R  
+- Power BI
 
 ---
 
-### 4️⃣ Flight Departures Visualization — Power BI Dashboard (2019–2024)
-**Goal:** Visualize flight departure trends at Indonesia’s four major airports — KNO, CGK, SUB, and DPS — based on BPS data.  
-**Tools:** Power BI, DAX, Data Cleaning (Excel)  
-**Highlights:**
-- Displayed annual and monthly departure trends.  
-- Highlighted post-pandemic recovery patterns (2020–2024).  
-- Interactive filters for airport and time selection.
-
-📊 [View dashboard on LinkedIn] (https://bit.ly/FlightDepaturePowerBI)
----
-
-## 🧰 Tools & Technologies
-- **Data Analysis:** Python (pandas, numpy), Minitab, Excel  
-- **Visualization:** Power BI, Matplotlib, Seaborn  
-- **Machine Learning:** Scikit-learn, Text Processing  
-- **Version Control:** Git & GitHub
+## 📂 What I Do
+- Analyze and process data to generate meaningful insights  
+- Build machine learning models for various business needs  
+- Create dashboards and interactive visualizations  
+- Communicate analysis results in a clear and concise manner  
 
 ---
 
-## 📬 Contact
-- **LinkedIn:** [linkedin.com/in/arifatulfe](https://www.linkedin.com/in/arifatulfe)
-- **Email:** *arifatulfathinahessa@gmail.com*
-- **GitHub:** [github.com/rifaessa](https://github.com/rifaessa)
-
----
-
-> *“Data tells stories — my role is to translate them into insights that drive decisions.”*  
-> — Arifah 💡
+## 📫 Contact
+Feel free to reach out via GitHub or email (arifatulfathinahessa@gmail.com)
