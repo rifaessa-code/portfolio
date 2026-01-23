@@ -63,4 +63,8 @@ This visualization aims to:
 
 Explore the dashboard file (`.pbix`) to interact with the full visualizations.
 
+## 🖼 Dashboard Preview
+![Dashboard Preview](preview.png)
+
+
 
