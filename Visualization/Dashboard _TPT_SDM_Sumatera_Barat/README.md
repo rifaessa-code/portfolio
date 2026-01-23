@@ -29,7 +29,7 @@ The data used in this dashboard are secondary data obtained from official statis
 - Clean and user-friendly layout
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](assets/preview.png)
+![Dashboard Preview](assets/preview_dashboarad_line_chart.png)
 
 
 ## 👤 Author
