@@ -29,7 +29,7 @@ The data used in this dashboard are secondary data obtained from official statis
 - Clean and user-friendly layout
 
 ## 🖼 Dashboard Preview
-![Dashboard Preview](assets/preview_dashboard_line_chart.png)
+![Dashboard Preview](Visualization/Dashboard _TPT_SDM_Sumatera_Barat/preview_dashboard_line_chart.png)
 
 
 ## 👤 Author
