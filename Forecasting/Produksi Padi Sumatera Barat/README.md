@@ -1,41 +1,41 @@
-# Proyeksi Produksi Padi Sumatera Barat (Prophet)
+# Rice Production Forecasting in West Sumatra (Prophet)
 
-## Deskripsi
-Project ini merupakan **analisis peramalan produksi padi di Provinsi Sumatera Barat** menggunakan metode **time series Prophet (Python)**.  
-Project ini dibuat sebagai **project mandiri portofolio**, terinspirasi dari pengalaman saya berkontribusi di **Tim Produksi BPS Provinsi Sumatera Barat**.
+## Description
+This project focuses on **forecasting rice production in West Sumatra Province** using the **Prophet time series method (Python)**.  
+It is developed as an **independent portfolio project**, inspired by my experience contributing to the **Production Statistics Team at BPS Province of West Sumatra**.
 
 ---
 
-## Tujuan
-- Mengidentifikasi **pola musiman tahunan** produksi padi  
-- Memproyeksikan produksi padi hingga **tahun 2026**  
-- Menganalisis **tren jangka panjang** produksi padi  
+## Objectives
+- Identify **annual seasonal patterns** in rice production  
+- Forecast rice production up to **2026**  
+- Analyze **long-term production trends**
 
 ---
 
 ## Data
-- Periode data: **2018–2024 (bulanan)**  
-- Sumber: **Badan Pusat Statistik (BPS) Provinsi Sumatera Barat**  
-- Variabel utama: Produksi padi  
+- Data period: **2018–2024 (monthly)**  
+- Source: **Badan Pusat Statistik (BPS) – West Sumatra Province**  
+- Target variable: Rice production  
 
-Data ditransformasikan ke format Prophet dengan kolom:
-- `ds` (waktu)
-- `y` (nilai produksi)
+The data is transformed into Prophet’s required format with the following columns:
+- `ds` (time)
+- `y` (production value)
 
 ---
 
-## Metode
+## Methodology
 - Model: **Prophet**
-- Horizon peramalan: **24 bulan (2025–2026)**
-- Evaluasi akurasi menggunakan **MAPE**
-- Nilai MAPE: **13,92% (kategori baik)**
+- Forecast horizon: **24 months (2025–2026)**
+- Accuracy evaluation using **MAPE**
+- MAPE value: **13.92% (good accuracy)**
 
 ---
 
-## Hasil Utama
-- Produksi padi memiliki **pola musiman tahunan yang kuat**
-- Tren jangka panjang menunjukkan **penurunan gradual**
-- Hasil proyeksi berada dalam **rentang historis yang realistis**
+## Key Results
+- Rice production exhibits a **strong annual seasonal pattern**
+- Long-term trend shows a **gradual downward tendency**
+- Forecasted values remain within a **realistic historical range**
 
 ---
 
@@ -48,13 +48,12 @@ Data ditransformasikan ke format Prophet dengan kolom:
 
 ---
 
-## Catatan
-Project ini dibuat untuk **keperluan pembelajaran dan portofolio** dan **bukan merupakan publikasi resmi BPS**.
+## Notes
+This project is created for **learning and portfolio purposes** and **does not represent any official BPS publication**.
 
 ---
 
-## Penulis
+## Author
 **Arifatul Fathinah Essa**  
 📧 arifatulfathinahessa@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/arifatulfe/
-
