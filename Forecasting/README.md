@@ -28,6 +28,22 @@ The process includes:
 
 ---
 
+### **3. Rice Production Forecasting in West Sumatra — Time Series Prophet**
+This project focuses on **forecasting rice production in West Sumatra Province** using the **Prophet time series model (Python)**.  
+It is developed as an **independent portfolio project**, based on monthly rice production data.
+
+The analysis workflow includes:
+- Data preprocessing and transformation into Prophet’s required format (`ds` and `y`)
+- Building a Prophet model with trend and yearly seasonality components
+- Forecasting rice production up to **2026**
+- Evaluating model performance using **MAPE (13.92% – good accuracy)**
+- Interpreting long-term trends and seasonal production patterns
+
+The results indicate a **strong annual seasonal pattern** in rice production, with a **gradual long-term downward trend**.  
+Forecasted values remain within a **realistic historical range**, showing that the Prophet model performs well on agricultural time series data.
+
+---
+
 ## 🛠 Tools Used
 - Excel  
 - Minitab
